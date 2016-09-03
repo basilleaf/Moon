@@ -5,7 +5,7 @@ tags: [about]
 date: 2016-03-21
 comments: false
 ---
-<p> Lisa Ballard is on a mission to make space data accessible. She is a planetary science web developer at the <a href = "http://www.seti.org/">SETI Institute</a> and the CTO of Spacehack.org. She is also the creator of <a href = "http://twitter.com/dailyrings">Daily Rings</a> and the co-creator of <a href = "https://spaceprob.es/">Spaceprob.es</a>, a catalog of the human-made machines that freckle our solar system. As a web developer and science advocate, she is passionate about creating beautiful user experiences through close collaborations with designers.</p>
+<p>Web developer on the NASA Planetary Data System <a href = "https://pds-rings.seti.org">Ring-Moon Systems Node</a> at <a href = "http://www.seti.org/">SETI Institute</a>. CTO of <a href = "http://Spacehack.org">Spacehack.org</a>, a directory of ways to participate in space exploration. Co-creator of <a href = "https://spaceprob.es/">Spaceprob.es</a>, a catalog of the human-made machines that dot our solar system. </p>
 
 
 <!-- div>    
