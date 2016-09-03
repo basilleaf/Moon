@@ -1,11 +1,14 @@
 ---
 layout: page
-title: About the Theme
-tags: [about, Jekyll, theme, moon]
+title: About
+tags: [about]
 date: 2016-03-21
 comments: false
 ---
-    
+<p> Lisa Ballard is on a mission to make space data accessible. She is a planetary science web developer at the <a href = "http://www.seti.org/">SETI Institute</a> and the CTO of Spacehack.org. She is also the creator of <a href = "http://twitter.com/dailyrings">Daily Rings</a> and the co-creator of <a href = "https://spaceprob.es/">Spaceprob.es</a>, a catalog of the human-made machines that freckle our solar system. As a web developer and science advocate, she is passionate about creating beautiful user experiences through close collaborations with designers.</p>
+
+
+<!-- div>    
 <center><a href="http://taylantatli.github.io/Moon"><b>Moon</b></a> is a minimal, one column jekyll theme.</center>
 
 ## Features
@@ -33,5 +36,7 @@ See a [live version of Moon](http://taylantatli.github.io/Moon) hosted on GitHub
 ## Getting Started
 
 To learn how to install and use this theme check out the [Setup Guide](http://taylantatli.me/Moon/moon-theme/) for more information.
-      
+
 [Install Moon](https://github.com/TaylanTatli/Moon){: .btn}
+
+</div -->
