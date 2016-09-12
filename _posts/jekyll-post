@@ -1,6 +1,8 @@
 #!/usr/bin/python
 
 """
+via https://raw.githubusercontent.com/jbranchaud/mybin/master/jekyll-post
+
 jekyll-post - this is a simple script that will create and initialize a new
 Jekyll post file. The default is a markdown file (.md) and the yaml options
 listed below will be part of the initialization.
@@ -112,9 +114,8 @@ def main():
             f.write('---\n')
             f.write('layout: post\n')
             f.write('title: ' + title + '\n')
-            f.write('summary:\n')
+            f.write('excerpt:\n')
             f.write('status: draft\n')
-            f.write('hn-discussion:\n')
             if tags:
                 f.write('tags:\n')
                 for tag in tags:
