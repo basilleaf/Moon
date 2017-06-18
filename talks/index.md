@@ -4,6 +4,9 @@ title: Recent Talks
 excerpt: "Talks I've Given"
 comments: false
 ---
+<a href = "https://speakerdeck.com/basilleaf/where-are-all-the-space-robots"><i>
+Where Are All the Space Robots?!</i></a> <strong>!!Con</strong> May 2017, NYC
+
 <a href = "https://speakerdeck.com/basilleaf/postcards-from-the-outer-planets"><i>
 Postcards from the Outer Planets</i></a> <strong>Science Hack Day</strong> November 2016, San Francisco
 
