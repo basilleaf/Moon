@@ -4,6 +4,8 @@ title: Recent Talks
 excerpt: "Talks I've Given"
 comments: false
 ---
+<a href = "https://speakerdeck.com/basilleaf/how-to-play-with-deep-space-data-1"><i>How to Play with Deep Space Data</i></a> <strong>Strange Loop</strong> September 2017, St. Louis
+
 <a href = "https://speakerdeck.com/basilleaf/where-are-all-the-space-robots"><i>
 Where Are All the Space Robots?!</i></a> <strong>!!Con</strong> May 2017, NYC
 
