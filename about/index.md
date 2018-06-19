@@ -5,7 +5,10 @@ tags: [about]
 date: 2016-03-21
 comments: false
 ---
-<p>Web developer for NASA Planetary Data System's <a href = "https://pds-rings.seti.org">Ring-Moon Systems Node</a> at <a href = "http://www.seti.org/">SETI Institute</a>. CTO of <a href = "http://Spacehack.org">Spacehack.org</a>, a directory of ways to participate in space exploration. Co-creator of <a href = "https://spaceprob.es/">Spaceprob.es</a>, a catalog of the human-made machines that dot our solar system. 2016 Class of <a href = "https://open.nasa.gov/blog/meet-nasa-datanauts-2016-class/">NASA Datanauts</a>. Maker of <a href = "https://github.com/Basilleaf">various things</a>. Check out my <a href = "/projects">projects</a> and <a href = "/talks">recent talks.</a>
+<p>
+Loves working with creative people to make things happen. Inspired by fascinating problems and amazing goals. Values visual and interaction design, user experience, product development, and empathy. Enjoys engineering challenges. Passionate about creating beautiful user experiences. Seeking communities that value diversity and inclusion. Currently wrapping up a 3 month sabbatical and excited for what's next!     
+</p>
+<p>Recently Web developer for NASA Planetary Data System's <a href = "https://pds-rings.seti.org">Ring-Moon Systems Node</a> at <a href = "http://www.seti.org/">SETI Institute</a>. Recent projects include CTO of <a href = "http://Spacehack.org">Spacehack.org</a>, a directory of ways to participate in space exploration, and Co-creator of <a href = "https://spaceprob.es/">Spaceprob.es</a>, a catalog of the human-made machines that dot our solar system. 2016 Class of <a href = "https://open.nasa.gov/blog/meet-nasa-datanauts-2016-class/">NASA Datanauts</a>. Maker of <a href = "https://github.com/Basilleaf">various things</a>. Check out my <a href = "/projects">projects</a> and <a href = "/talks">recent talks.</a>
 </p>
 
 <p>
