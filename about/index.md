@@ -14,7 +14,7 @@ Loves working with creative people to make things happen. Inspired by fascinatin
 <p>Contact: <a href="mailto:lballard.cat@gmail.com" target="_top">lballard.cat@gmail.com</a>
 </p>
 <p>
-    Thanks to <a href = "https://github.com/TaylanTatli/Moon">Moon</a> for this website theme!.
+    Thanks to <a href = "https://github.com/TaylanTatli/Moon">Moon</a> for this website theme!
 
 <!-- div>    
 <center><a href="http://taylantatli.github.io/Moon"><b>Moon</b></a> is a minimal, one column jekyll theme.</center>
