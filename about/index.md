@@ -11,8 +11,10 @@ Loves working with creative people to make things happen. Inspired by fascinatin
 <p>Recently web developer lead for NASA Planetary Data System's <a href = "https://pds-rings.seti.org">Ring-Moon Systems Node</a> at <a href = "http://www.seti.org/">SETI Institute</a>. Side projects include CTO of <a href = "http://Spacehack.org">Spacehack.org</a>, a directory of ways to participate in space exploration, and Co-creator of <a href = "https://spaceprob.es/">Spaceprob.es</a>, a catalog of the human-made machines that dot our solar system. 2016 Class of <a href = "https://open.nasa.gov/blog/meet-nasa-datanauts-2016-class/">NASA Datanauts</a>. Maker of <a href = "https://github.com/Basilleaf">various things</a>. Check out my <a href = "/projects">projects</a> and <a href = "/talks">recent talks.</a>
 </p>
 <p><a href = "https://www.dropbox.com/s/o74tp8tlpnvt8n7/lballard_cv_public.pdf?dl=0">Here is my cv (pdf)</a></p>
+<p>Contact: <a href="mailto:lballard.cat@gmail.com" target="_top">lballard.cat@gmail.com</a>
+</p>
 <p>
-Website theme is <a href = "https://github.com/TaylanTatli/Moon">Moon</a>.
+    Thanks to <a href = "https://github.com/TaylanTatli/Moon">Moon</a> for this website theme!.
 
 <!-- div>    
 <center><a href="http://taylantatli.github.io/Moon"><b>Moon</b></a> is a minimal, one column jekyll theme.</center>
