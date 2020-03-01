@@ -1,6 +1,6 @@
 ---
 layout: page
-title: Recent Talks
+title: Talks
 excerpt: "Talks I've Given"
 comments: false
 ---
